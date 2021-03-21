@@ -18,6 +18,7 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/action-a/Dockerfile" />
+      <option value="$PROJECT_DIR$/action-a/entrypoint.sh" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1q52Y8ZDA63FvVlAJVbmBiP5boG" />
@@ -33,6 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -44,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616355178022</updated>
-      <workItem from="1616355189599" duration="664000" />
+      <workItem from="1616355189599" duration="1254000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit Add Dockerfile">
       <created>1616355457808</created>
